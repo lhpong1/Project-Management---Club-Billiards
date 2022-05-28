@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\formbida\formbida\bin\Debug\formbida.exe.config
+C:\Users\Admin\source\repos\formbida\formbida\bin\Debug\formbida.exe
+C:\Users\Admin\source\repos\formbida\formbida\bin\Debug\formbida.pdb
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.Properties.Resources.resources
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.exe
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.pdb
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.login.resources
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.FormQLB.resources
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.FormQLNV.resources
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.FormQLK.resources
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.FormQLHD.resources
+C:\Users\Admin\source\repos\formbida\formbida\obj\Debug\formbida.FormMenu.resources

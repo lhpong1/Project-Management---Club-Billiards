@@ -1,0 +1,1 @@
+sp_rename 'Kho.MaNVV', 'MaNV','COLUMN';
